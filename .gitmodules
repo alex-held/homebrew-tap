@@ -1,0 +1,3 @@
+[submodule "node/@alex-held/readme-gen"]
+	path = node/@alex-held/readme-gen
+	url = git@github.com:alex-held/readme-gen.git
